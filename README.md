@@ -1,2 +1,6 @@
 # Bird-Movement
-Python tool for visualizing bird GPS trajectories. Plot single or multiple birds, start-end points or full trajectories with movement arrows. 
+Python tool to visualize a bird tracking dataset (https://www.kaggle.com/datasets/saikrishna20/bird-tracking).
+
+Plot single or multiple birds, start-end points or full trajectories with movement arrows.
+
+
