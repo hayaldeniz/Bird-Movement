@@ -1,7 +1,7 @@
 # Bird-Movement
 This repository provides tools to explore, analyze and visualize GPS tracking data of birds. 
 
-The dataset used is from [https://www.kaggle.com/datasets/saikrishna20/bird-tracking] . 
+The used dataset is the Kaggle bird-tracking dataset: https://www.kaggle.com/datasets/saikrishna20/bird-tracking . 
 
 It includes a temporal analysis and spatial visualization via a Python class BirdTrackerVisualizer to
 
